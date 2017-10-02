@@ -1,3 +1,3 @@
 samefile
-in remote-repo
+in remote-repo CHANGED
 and local repo
